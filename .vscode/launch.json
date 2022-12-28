@@ -14,8 +14,8 @@
             "type": "java",
             "name": "Launch PrimitiveDatatypes",
             "request": "launch",
-            "mainClass": "PrimitiveDatatypes",
-            "projectName": "JavaPrimitiveDatatypes_709fe82c"
+            "mainClass": "PrimitiveDatatypes.java",
+            "projectName": "JavaPrimitiveDatatypes"
         }
     ]
 }
