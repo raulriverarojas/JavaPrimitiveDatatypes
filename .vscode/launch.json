@@ -8,8 +8,7 @@
             "type": "java",
             "name": "Launch PrimitiveDatatypes",
             "request": "launch",
-            "mainClass": "PrimitiveDatatypes.java",
-            "projectName": "JavaPrimitiveDatatypes"
+            "mainClass": "PrimitiveDatatypes.java"
         }
     ]
 }
